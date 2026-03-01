@@ -5,12 +5,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://media2.giphy.com/media/eCqFYAVjjDksg/giphy.gif" width="400" alt="Hacker GIF" />
-</p>
-
----
-
 ## 🧠 About Me
 
 💀 Passionate **Cybersecurity Enthusiast** exploring the dark and bright sides of the digital world.  
